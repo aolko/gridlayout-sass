@@ -1,31 +1,7 @@
-[GridLayout](https://ghinda.net/gridlayout/)
+[GridLayout](https://ghinda.net/gridlayout/) SASS
 ============================================
 
-[![Build Status](https://api.travis-ci.org/ghinda/gridlayout.svg)](https://travis-ci.org/ghinda/gridlayout)
-
 Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers.
-
-Installation
-------------
-
-With [npm](https://www.npmjs.com/package/gridlayout)
-
-```
-npm install gridlayout
-```
-
-With [Bower](http://bower.io/)
-
-```
-bower install gridlayout
-```
-
-From [jsDelivr](https://www.jsdelivr.com/projects/gridlayout)
-
-```
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gridlayout/latest/gridlayout.min.css" />
-<script src="https://cdn.jsdelivr.net/gridlayout/latest/gridlayout-ie.min.js"></script>
-```
 
 Why use GridLayout?
 -------------------
@@ -213,6 +189,13 @@ You can align content vertically inside cells using the `gl-align-middle` and `g
 </div>
 ```
 
+### New! Define grids in-styles
+
+Instead of littering in you html markup you can now define grids in-styles
+
+```
+Code example is coming soon
+```
 
 Examples
 --------
@@ -224,5 +207,5 @@ Examples
 
 License
 -------
-
+Based on GridLayout.
 GridLayout is licensed under the [MIT license](LICENSE).
